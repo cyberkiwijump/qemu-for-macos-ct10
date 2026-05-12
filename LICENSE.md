@@ -1,4 +1,4 @@
-# 
+# vip QEMU for macOS Script | drag-and-drop-support + USB-passthrough is the best QEMU for macOS script, featuring drag-and-drop-support and USB-passthrough. Powerful, efficient,
 
 
 
